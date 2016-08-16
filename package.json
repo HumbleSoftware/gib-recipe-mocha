@@ -1,0 +1,18 @@
+{
+  "name": "gib-recipe-mocha",
+  "version": "0.0.1",
+  "description": "Gib recipe for mocha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Carl Sutherland <carl@humblesoftware.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-spawn-mocha": "^3.1.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.4",
+    "mocha": "^3.0.2"
+  }
+}
